@@ -1,0 +1,5 @@
+Feature detail:
+
+-Basic calculator function; Addition, subtraction, multiplication, equals, clear
+-Scientific calculator abilities
+-Graphing abilities
